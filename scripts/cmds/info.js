@@ -17,24 +17,24 @@ module.exports = {
 		// 👑 USERS
 		const users = [
 			{
-				name: "𝐍𝐢 𝐒 𝐚𝐍",
-				age: "𝟐𝟎+",
+				name: "Na Gi ",
+				age: "18+",
 				status: "𝐒𝐢𝐧𝐠𝐥𝐞",
-				number: "𝟎𝟏𝟕𝐱𝐱𝐱𝐱𝐱𝟗𝟖",
-				telegram: "https://t.me/nisan_editz",
-       facebook: "https://m.me/nisan4x.5g",
-				instagram: "i'm_editz_x2.0",
+				number: "𝟎𝟏3𝐱𝐱𝐱𝐱418",
+			
+       facebook: "https://www.facebook.com/seishiro.nagi.420",
+				instagram: "@killua_zoldyck_4589",
 				role: "𝐀𝐝𝐦𝐢𝐧",
 				img: ["https://files.catbox.moe/4odpv8.jpg"]
 			},
 			{
-				name: "KuRuMi",
+				name: "Na Gi",
 				age: "18+",
-				status: "𝐁𝐮𝐬𝐲",
-				number: "𝟎𝟏𝟖xxxxxxx",
-				telegram: "https://t.me/",
-       facebook: "https://m.me/",
-				instagram: "i'm_editz_x2.0",
+				status: "Single",
+				number: "𝟎𝟏9xxxxxxx",
+				
+       facebook: "https://www.facebook.com/seishiro.nagi.420",
+				
 				role: "𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫",
 				img: ["https://files.catbox.moe/7pl10a.jpg"]
 			}
