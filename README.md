@@ -2,7 +2,7 @@
   <img src="https://files.catbox.moe/zr2ktu.jpg" alt="KuRuMi-V3 Banner" width="100%">
 </p>
 
-<h1 align="center">🐱 KuRuMi-V3</h1>
+<h1 align="center">🐱 Ajmaul-V3</h1>
 
 <p align="center">
   <b>Advanced Facebook / Messenger Bot with Dashboard, Automation & AI</b>
@@ -27,7 +27,7 @@
 
 **KuRuMi-V3** একটি powerful Messenger bot system যা automation, AI commands, live dashboard এবং advanced control system প্রদান করে।
 
-> 👨‍💻 Author: **NiSaN**  
+> 👨‍💻 Author: **ajmaul**  
 > ⚡ Version: **3.x**  
 > 📜 License: **MIT**
 
