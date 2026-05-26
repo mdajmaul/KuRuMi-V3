@@ -6,7 +6,7 @@ module.exports = {
 		name: "info",
 		aliases: ["owner", "binfo", "ainfo"],
 		version: "2.2",
-		author: "Nisan EditZ",
+		author: "Mohammad ajmaul",
 		countDown: 5,
 		role: 0,
 		category: "owner"
@@ -17,24 +17,24 @@ module.exports = {
 		// 👑 USERS
 		const users = [
 			{
-				name: "𝐍𝐢 𝐒 𝐚𝐍",
-				age: "𝟐𝟎+",
+				name: "**",
+				age: "**",
 				status: "𝐒𝐢𝐧𝐠𝐥𝐞",
-				number: "𝟎𝟏𝟕𝐱𝐱𝐱𝐱𝐱𝟗𝟖",
-				telegram: "https://t.me/nisan_editz",
-       facebook: "https://m.me/nisan4x.5g",
-				instagram: "i'm_editz_x2.0",
+				number: "𝟎𝟏9𝐱𝐱𝐱𝐱𝐱83",
+				telegram: "************",
+       facebook: "***********",
+				instagram: "**********",
 				role: "𝐀𝐝𝐦𝐢𝐧",
 				img: ["https://files.catbox.moe/4odpv8.jpg"]
 			},
 			{
-				name: "KuRuMi",
+				name: "Mohammad ajmaul",
 				age: "18+",
 				status: "𝐁𝐮𝐬𝐲",
-				number: "𝟎𝟏𝟖xxxxxxx",
-				telegram: "https://t.me/",
-       facebook: "https://m.me/",
-				instagram: "i'm_editz_x2.0",
+				number: "𝟎𝟏3xxxxxxx",
+				telegram: "https://t.me/ajmaul2372",
+       facebook: " https://www.facebook.com/profile.php?id=61590001468913",
+				instagram: "hide",
 				role: "𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫",
 				img: ["https://files.catbox.moe/7pl10a.jpg"]
 			}
